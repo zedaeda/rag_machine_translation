@@ -1,0 +1,3 @@
+System,BLEU,METEOR,BERTScore
+Baseline 1 (beam=5),32.1,0.5216,0.8721
+"kNN-MT (λ=0.05, greedy)",13.04,0.331,0.7582

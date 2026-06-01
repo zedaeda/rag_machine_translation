@@ -1,0 +1,5 @@
+System,BLEU,Note
+Baseline 1: IWSLT-trained NMT (beam=5),29.45,"fairseq-generate, beam=5, 8072 cümle"
+Baseline 1: IWSLT-trained NMT (greedy),13.74,"greedy decode, 500 cümle"
+"kNN-MT (λ=0.05, K=8, T=10, greedy)",13.63,"greedy decode, 500 cümle"
+"kNN-MT (λ=0.1, K=8, T=10, greedy)",13.04,"greedy decode, 500 cümle"

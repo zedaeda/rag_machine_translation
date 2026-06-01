@@ -1,0 +1,11 @@
+
+checkpoints/
+data/
+*.pt
+*.npy
+*.index
+__pycache__/
+results/baseline1/generate-test.txt
+results/baseline2/generate-test.txt
+.config/
+sample_data/

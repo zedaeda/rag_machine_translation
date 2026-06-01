@@ -1,0 +1,6 @@
+fairseq==0.12.2
+sacrebleu==2.6.0
+sentencepiece==0.2.1
+datasets==2.21.0
+torch==2.10.0+cu128
+faiss-cpu==1.13.2
